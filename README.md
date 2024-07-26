@@ -1,2 +1,2 @@
 # tetris
- game
+Just a practise for code learn
